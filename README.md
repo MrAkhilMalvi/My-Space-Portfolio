@@ -1,6 +1,4 @@
-Here’s the updated **GitHub README** template for your **My Space Portfolio** project with your name, title, and repository link incorporated:
 
----
 
 # 🌌 **My Space Portfolio**  
 **By Akhil Malviya**  
